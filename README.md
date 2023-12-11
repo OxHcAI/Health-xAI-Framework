@@ -11,6 +11,7 @@ AI/ML models mostly predict one outcome and therefore, multiple models may be ne
 
 In a fast-paced development scenario with multiple development sites and multiple teams, selecting the right model for the right clinical need can become challenging.
 
+
 To solve complex healthcare challenges such as with Multiple Long-Term Conditions, the design, development, and deployment of models need to be scalable. Managing, modifying, and maintaining these models in large health systems is crucial to the proper implementation of AI-enhanced tools.
 
 The framework can, therefore, not only be used by developers, but also domain experts, policy-makers, and funders to implement ethical AI/ML solutions for adopting in broader healthcare systems. 
